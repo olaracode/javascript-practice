@@ -1,0 +1,18 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.light_theme {
+  background-color: blue;
+  color: black;
+}
+
+.dark_theme {
+  background-color: grey;
+  color: white;
+}
+
+.product_image {
+  width: 200px;
+  height: 200px;
+}
